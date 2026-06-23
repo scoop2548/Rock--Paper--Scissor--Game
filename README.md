@@ -1,2 +1,2 @@
 # Rock--Paper--Scissor--Game
-A simple rock paper scissor game using python.
+A simple rock paper scissor game made using python.
